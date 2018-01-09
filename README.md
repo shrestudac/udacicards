@@ -15,6 +15,6 @@ To install and launch the project.
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-* install `Expo` from Google Plat Store (Android) or App Store (iOS) on mobile device
+* install `Expo` from Google Play Store (Android) or App Store (iOS) on mobile device
 * use the QR barcode scanner in the Expo app and scan the barcode from terminal with mobile device
 * alternatively, enter the given adddress into the Expo app's search bar
